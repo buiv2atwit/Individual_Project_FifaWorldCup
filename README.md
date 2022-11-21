@@ -1,7 +1,11 @@
 # Viet Hung Bui's individual project report
 
 ## Introduction 
-adfafdadf
+adfafdadfadfadf
+adfadfasdf
+asdfasdf
+
+sdfasdfasd
 
 ## Selection of data 
 
