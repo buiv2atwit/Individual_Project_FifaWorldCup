@@ -1,15 +1,16 @@
-# exampl1DataScience
+# Viet Hung Bui's individual project report
 
-## introduction 
+## Introduction 
+adfafdadf
 
-## selection of data 
+## Selection of data 
 
-## methods
+## Methods
 
-## results
+## Results
 
-## discussion 
+## Discussion 
 
-## summary 
+## Summary 
 
-## references
+## References
