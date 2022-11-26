@@ -3,11 +3,11 @@
 ## Introduction 
 The objective of this project is to practice using Jupiter Notebook. The World Cup 2022 is 
 
-happening in Qarta. It catch an eyes of milions people in the world and I am a fan of soccer 
+happening in Qarta. It catches an eye of millions people in the world and I am a fan of soccer 
 
-so I choose this topic for my final project in Data Science Fundamental so that It satisfy my 
+so, I choose this topic for my final project in Data Science Fundamental so that It satisfy my 
 
-passion and I can improve my data analysing. 
+passion and I can improve my data analyzing. 
 
 ## Selection of data 
 - Method 1
