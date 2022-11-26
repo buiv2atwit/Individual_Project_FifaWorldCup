@@ -17,7 +17,7 @@ There are three datasets:
 - worldcups.csv. This dataset include 10 features such as 'year','host','winner',....
 - worldcup_goals.csv. This dataset include 3 features such as 'player', 'year','goals'
 The main outcome are extracting and visualization data. The dataset can be found online at 
-kaggle [1]
+kaggle[1]
 
 ## Methods
 - Method 1
@@ -35,4 +35,4 @@ kaggle [1]
 ## Summary 
 
 ## References
-[1][Reference1](https://www.kaggle.com/datasets/evangower/fifa-world-cup)
+[1][World Cup dataset](https://www.kaggle.com/datasets/evangower/fifa-world-cup)
