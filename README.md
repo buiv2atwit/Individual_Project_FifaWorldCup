@@ -10,15 +10,22 @@ so, I choose this topic for my final project in Data Science Fundamental so that
 passion and I can improve my data analyzing. 
 
 ## Selection of data 
+The model processing and training are conducted using a Jupiter Notebook.
+
+There are three datasets: 
+- wcmatches.csv. This dataset include 15 features such as 'year','country','city',...
+- worldcups.csv. This dataset include 10 features such as 'year','host','winner',....
+- worldcup_goals.csv. This dataset include 3 features such as 'player', 'year','goals'
+The main outcome are extracting and visualization data. The dataset can be found online at 
+kaggle [1]
+
+## Methods
 - Method 1
   - inner list 1
   - inner list 2 
   - inner list 3
 - Method 2
 - Method 2
-
-## Methods
-
 ## Results
 `np.arange()`,
 
@@ -28,3 +35,4 @@ passion and I can improve my data analyzing.
 ## Summary 
 
 ## References
+[Reference1](https://www.kaggle.com/datasets/evangower/fifa-world-cup)
