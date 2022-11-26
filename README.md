@@ -1,13 +1,7 @@
 # Viet Hung Bui's individual project report
 
 ## Introduction 
-The objective of this project is to practice using Jupiter Notebook. The World Cup 2022 is 
-
-happening in Qarta. It catches an eye of millions people in the world and I am a fan of soccer 
-
-so, I choose this topic for my final project in Data Science Fundamental so that It satisfy my 
-
-passion and I can improve my data analyzing. 
+The objective of this project is to practice using Jupiter Notebook. The World Cup 2022 is happening in Qarta. It catches an eye of millions people in the world and I am a fan of soccer so, I choose this topic for my final project in Data Science Fundamental so that It satisfy my passion and I can improve my skill for this Data Science Fundamental class. 
 
 ## Selection of data 
 The model processing and training are conducted using a Jupiter Notebook.
