@@ -14,6 +14,7 @@ The model processing and training are conducted using a Jupiter Notebook.
 
 There are three datasets: 
 - wcmatches.csv. This dataset include 15 features such as 'year','country','city',...
+
 Data preview: 
 ![Picture 1](set1.png)
 - worldcups.csv. This dataset include 10 features such as 'year','host','winner',....
