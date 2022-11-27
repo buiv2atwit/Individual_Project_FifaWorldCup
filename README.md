@@ -34,7 +34,10 @@ The main outcome are extracting and visualization data. The dataset can be found
   - Scatter
   - Visualization
 ## Results
-`np.arange()`,
+- The Winners from 1930 to 2018 World Cup: 
+![Picture 4](fistplace.png)
+- The Second-place from 1930 to 2018 World Cup: 
+
 
 ## Discussion 
 ```Warning: ...........................```
