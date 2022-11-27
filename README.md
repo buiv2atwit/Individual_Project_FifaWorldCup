@@ -84,23 +84,10 @@ The main outcome are extracting and visualization data. The dataset can be found
 ![Picture 14](top-goals.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Discussion 
-```Warning: ...........................```
-
-## Summary 
+- The answer help me summary the entire information about FIFA World Cup in the range from 1930 - 2018. 
+- I can find these information easily by Google. However, with the Visualization, it helps me to have more dimension about data. 
+- In the future, with these data I may predict the winner of the World Cup by using Poison Distribution.   
 
 ## References
 [1][World Cup dataset](https://www.kaggle.com/datasets/evangower/fifa-world-cup)
