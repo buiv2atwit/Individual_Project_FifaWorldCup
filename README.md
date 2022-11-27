@@ -63,6 +63,9 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 ![Picture 9](attendances.png)
 
+- The year and the number of Goal-Scored from 1930 to 2018 World Cup: 
+
+
 
 
 
