@@ -73,6 +73,8 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 - The frequence of the host countries: 
 
+![Picture 12](freq-host.png)
+
 
 
 
