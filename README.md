@@ -81,6 +81,7 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 - The player who scored most in World Cup: Miroslav Klose with 16 goals 
 
+![Picture 14](top-goals.png)
 
 
 
