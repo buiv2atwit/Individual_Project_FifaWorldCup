@@ -71,6 +71,9 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 ![Picture 11](year-goals-visual.png)
 
+- The frequence of the host countries: 
+
+
 
 
 
