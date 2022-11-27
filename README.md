@@ -69,7 +69,7 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 - Visualization the year and goals-scored: 
 
-![Picture 7](fourthplace.png)
+![Picture 11](year-goals-visual.png)
 
 
 
