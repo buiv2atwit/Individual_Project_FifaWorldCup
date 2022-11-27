@@ -59,6 +59,10 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 ![Picture 7](visualwinner.png)
 
+- The number of attendances at each World Cup from 1930 to 2018: 
+
+
+
 
 
 
