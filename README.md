@@ -75,7 +75,9 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 ![Picture 12](freq-host.png)
 
-- The countries who hosted and won the World Cup: 
+- The countries who hosted and won the World Cup:
+
+![Picture 13](host-win.png)
 
 
 
