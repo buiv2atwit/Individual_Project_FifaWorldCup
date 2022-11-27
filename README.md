@@ -50,7 +50,11 @@ The main outcome are extracting and visualization data. The dataset can be found
 
 ![Picture 7](fourthplace.png)
 
-- 
+- Summary: 
+  - 1st. Brazil won 5 World Cup titles, 2 2nd-places, 2 3rd-places, 2 4th-places. 
+  - 2nd. Italia won 4 World Cup titles, 2 2nd-places, 1 3rd-places, 1 4th-places. 
+  - 3rd. Germany won 3 World Cup titles, 3 2nd-places, 1 4th-places
+
 
 
 ## Discussion 
