@@ -36,9 +36,12 @@ The main outcome are extracting and visualization data. The dataset can be found
 ## Results
 - The Winners from 1930 to 2018 World Cup: 
 ![Picture 4](firstplace.png)
-- The Second-place from 1930 to 2018 World Cup: 
-
-
+- The Second-place from 1930 to 2018 World Cup:
+![Picture 5](secondplace.png)
+- The Third-place from 1930 to 2018 World Cup: 
+![Picture 6](thirdplace.png)
+- The Fourth-place from 1930 to 2018 World Cup: 
+![Picture 7](fourthplace.png)
 ## Discussion 
 ```Warning: ...........................```
 
