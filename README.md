@@ -9,15 +9,15 @@ When I looked at the dataset. It was so many information and I wondered to mysel
 The model processing and training are conducted using a Jupiter Notebook.
 
 There are three datasets: 
-- wcmatches.csv. This dataset include 15 features such as 'year','country','city',...
+- `wcmatches.csv`. This dataset include 15 features such as `year`,`country`,`city`,...
 
 Data preview: 
 ![Picture 1](set1.png)
-- worldcups.csv. This dataset include 10 features such as 'year','host','winner',....
+- `worldcups.csv`. This dataset include 10 features such as `year`,`host`,`winner`,....
 
 Data preview: 
 ![Picture 2](set2.png)
-- worldcup_goals.csv. This dataset include 3 features such as 'player', 'year','goals'
+- `worldcup_goals.csv`. This dataset include 3 features such as `player`, `year`,`goals`
 
 Data preview: 
 ![Picture 3](set3.png)
